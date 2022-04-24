@@ -1,4 +1,11 @@
-Hi 👋 My name is Batın Muştu ============================  Fullstack Developer -------------------  * 🌍  I'm based in Turkey * 🖥️  See my portfolio at [My Personel Site](http://batinmustu.com) * ✉️  You can contact me at [batinmustu@gmail.com](mailto:batinmustu@gmail.com) * 🧠  I'm learning React Native * 🤝  I'm open to collaborating on Lubnero * ⚡  It's okay not to know, just don't show...
+## Hi 👋 My name is Batın Muştu 
+### Fullstack Developer 
+* 🌍  I'm based in Turkey
+* 🖥️  See my portfolio at [My Personel Site](http://batinmustu.com)
+* ✉️  You can contact me at [batinmustu@gmail.com](mailto:batinmustu@gmail.com)
+* 🧠  I'm learning React Native
+* 🤝  I'm open to collaborating on Lubnero
+* ⚡  It's okay not to know, just don't show...
 
 ### Skills
 
