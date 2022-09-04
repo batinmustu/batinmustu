@@ -3,7 +3,7 @@
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [My Personel Site](http://batinmustu.com)
 * ✉️  You can contact me at [batinmustu@gmail.com](mailto:batinmustu@gmail.com)
-* 🧠  I'm learning React Native
+* 🧠  I'm learning Dart/Flutter
 * 🤝  I'm open to collaborating on Lubnero
 * ⚡  It's okay not to know, just don't show...
 
