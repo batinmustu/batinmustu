@@ -1,16 +1,51 @@
-## Hi 👋 My name is Batın Muştu 
-### Fullstack Developer 
-* 🌍  I'm based in Turkey
-* 🖥️  See my portfolio at [My Personel Site](http://batinmustu.com)
-* ✉️  You can contact me at [batinmustu@gmail.com](mailto:batinmustu@gmail.com)
-* 🧠  I'm learning Dart/Flutter
-* 🤝  I'm open to collaborating on Lubnero
-* ⚡  It's okay not to know, just don't show...
+<div align="center">
 
-### Skills
+<a href="https://github.com/batinmustu">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Bat%C4%B1n+%F0%9F%91%8B;Backend+Developer+from+Istanbul;.NET+%2F+C%23+%E2%80%94+PHP+%2F+Laravel" alt="header" />
+</a>
 
-<p align="left"> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p> 
+<img src="https://komarev.com/ghpvc/?username=batinmustu&label=Profile%20views&color=7AA2F7&style=flat" alt="Profile views" />
 
-### Socials
+</div>
 
- <p align="left"> <a href="https://www.github.com/batinmustu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/batinmustu.zip" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+---
+
+### Hey, I'm Batın
+
+Backend developer in Istanbul. Four years in production — most of them on PHP / Laravel, and lately spending more and more time on the .NET / C# side.
+
+Recent areas I've worked deeply in:
+
+- Payment integrations and multi-tenant SaaS backends
+- High-traffic systems (one of them sitting around 2M+ daily requests)
+- LLM features on real products — RAG with pgvector, semantic search, the practical end of prompt engineering
+
+I try to write code that the next person (usually future me) doesn't have to fight.
+
+---
+
+### What I'm on right now
+
+**[Payflow](https://github.com/batinmustu/payflow)** — a portfolio project I'm building in the open.
+
+> Multi-tenant payment orchestration platform — .NET 8 microservices unifying Iyzico, Stripe, and PayPal behind a single API via Strategy + Adapter. Outbox-backed Kafka eventing, idempotent transaction lifecycle, refund saga, and a tenant-scoped RAG assistant on pgvector. A documentation-first reference implementation.
+
+Reading more about distributed systems and DDD between projects.
+
+---
+
+### Stack
+
+**Daily:** `C#` · `.NET 8` · `ASP.NET Core` · `EF Core` · `PostgreSQL` · `Redis` · `Docker`
+
+**Production experience:** `PHP` · `Laravel` · `MySQL` · `Vue` · `React` · `Linux / Nginx`
+
+**Patterns & infra:** Clean Architecture · CQRS · DDD · Strategy / Adapter · Outbox · Saga · Kafka · RabbitMQ · Kubernetes · GitHub Actions
+
+**LLM / AI:** OpenAI & Anthropic Claude APIs · RAG · pgvector · semantic search
+
+---
+
+### Reach me
+
+[LinkedIn](https://www.linkedin.com/in/batinmustu) · [Email](mailto:batinmustu@gmail.com) · [batinmustu.com](http://batinmustu.com)
